@@ -1,1 +1,1 @@
-#calculator App \n This is a simple calculator
+#advance Calculator \n This is a comprehensive calculator app
